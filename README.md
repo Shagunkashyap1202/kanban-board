@@ -27,9 +27,7 @@ A simple Kanban Board application built using HTML, CSS and JavaScript to manage
 
 ![Kanban Board](screenshots/kanban_board.png)
 
-## Demo
 
-[Watch Drag and Drop Functionality](demo/drag-and-drop.mp4)
 
 ## How to Run
 
